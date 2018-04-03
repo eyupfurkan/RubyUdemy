@@ -1,0 +1,1 @@
+seeds te cmd de nanobox run ve ardýndan rails db:seed çalýþmadý.
